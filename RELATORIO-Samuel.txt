@@ -1,0 +1,7 @@
+Data ;		 Horas Trabalhadas ;	Tipo Tarefa ; 			Descrição da Tarefa Realizada;
+21/06		1h			Estudar;				Analisamos o que deveria ser feito no trabalho;
+22/06		2h			Projetar;				Projetei quais e quantas classes seriam utilizadas, quais métodos poderiam ser utilizados;
+22/06		10h			Codificar 	Modulo;			Durante o dia inteiro, codifiquei as classes e os módulos necessários;
+24/06		2h			Realizar testes;			Fiz alguns testes para ver se as instruções eram cumpridas;
+25/06		2h			Corrigir os problemas encontrados; 	Resolvi problemas em relação a leitura de funções infixas com operandos que eram seguidos, como por exemplo: 2+*;
+25/06		1h			Realizar testes;			Finalizamos o trabalho;

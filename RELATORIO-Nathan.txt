@@ -1,0 +1,6 @@
+Data          ;	Horas Trabalhadas ; Tipo Tarefa                           ; Descrição da Tarefa Realizada 
+21/06/2023    ; 1h                ; Estudar                               ; Analisamos o que deveria ser feito no trabalho
+22/06/2023    ; 1h30min           ; Revisar projetos                      ; Revisei o projeto que o Samuel fez, adicionando alguns pontos
+22/06/2023    ; 5h                ; Codificar                             ; Codifiquei o conserto de alguns erros, para o caso especial de algumas infixas
+24/06/2023    ; 3h                ; Realizar testes                       ; Realizamos alguns testes junto e percebemos alguns erros especificos como 2+* que foi corrigido no proximo dia
+25/06/2023    ; 1h                ; Realizar os testes                    ; Apos tudo ser corrigido, criei os documentos necessarios para a entrega do trabalho como o leiame.txt e outros

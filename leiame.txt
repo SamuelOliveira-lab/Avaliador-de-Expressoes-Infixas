@@ -1,0 +1,19 @@
+Avaliador de Expressões Matemáticas
+Descrição do Projeto:
+O objetivo deste projeto é criar um programa capaz de avaliar expressões matemáticas na forma infixa. O programa realizará a conversão da expressão infixa para a forma pós-fixa e, em seguida, avaliará a expressão pós-fixa.
+
+Explicação de como o programa funciona e como devera ser feitas as entradas:
+
+As expressões são compostas por números de um único algarismo conforme pedido no trabalho, exemplo de uma expressao para entrada: 3+5*4/(4+3)
+O resultado apresentado deverá ser 5 no caso da expressao acima.
+A função de conversão deve receber uma expressão matemática na forma infixa como entrada e retornar a expressão equivalente na forma pós-fixa.
+A conversão deve seguir as regras de precedência dos operadores, considerando a ordem: exponenciação, multiplicação/divisão e adição/subtração.
+Parênteses podem ser usados para alterar a ordem de avaliação.
+Após digitar a expressão, deverá ser digitado  1 para continuar ou qualquer outro número para que o programa seja encerrado. 
+
+Avaliação da Expressão Pós-fixa:
+O programa deve receber a expressão pós-fixa convertida como entrada e calcular o resultado da expressão.
+
+Verificação de Sintaxe da Expressão Infixa:
+Antes de avaliar a expressão infixa, o programa deve verificar se a expressão é sintaticamente válida.
+A verificação deve incluir a validação do número correto de operandos, operadores e parênteses, além da posição correta de cada elemento na expressão.
