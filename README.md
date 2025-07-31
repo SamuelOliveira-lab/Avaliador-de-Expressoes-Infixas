@@ -22,21 +22,16 @@ O projeto é dividido em três classes:
 - `Converter`: lida com a conversão e o cálculo.
 - `Pilha`: implementação da estrutura de dados de pilha.
 
-Mais detalhes no documento PDF em [``]().
+Mais detalhes no documento PDF em [`Arquitetura_e_especificacao.pdf`](Arquitetura_e_especificacao.pdf).
 
 ## 🧪 Exemplos de uso
 
 Entrada:
-(3 + 4) * 2
+(3+4)*2
 
 Saída esperada:
-Pós-fixa: 3 4 + 2 *
+Pós-fixa: 34+2*
 Resultado: 14
-
-
-## 📄 Documentação
-
-📎 [``]()
 
 ## 🎓 Autor
 
