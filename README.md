@@ -35,5 +35,7 @@ Resultado: 14
 
 ## 🎓 Autor
 
-Samuel Oliveira Ferraz Porto | Nathan Balmant de Paula Souza 
+- [Samuel Oliveira Ferraz Porto](https://github.com/SamuelOliveira-lab)   
+- [Nathan Balmant](https://github.com/NathanBalmant)
+  
 CEFET-MG – Engenharia de Computação
